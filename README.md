@@ -10,6 +10,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Supports button clicks.
 
+### Day 2 - Clock
+> An analog clock
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/clock/index.html) ] [ 
+[Code](/clock) ]
+
+**Additional features:** Hands with different sizes/colors.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
