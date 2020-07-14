@@ -18,6 +18,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Hands with different sizes/colors.
 
+### Day 3 - CSS Variables
+> Change properties of the website based on the input values.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/css-variables/index.html) ] [ 
+[Code](/css-variables) ]
+
+**Additional features:** Input field to set the image size.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
