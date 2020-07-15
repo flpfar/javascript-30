@@ -26,6 +26,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Input field to set the image size.
 
+### Day 4 - Array Cardio 1
+> Practicing array methods
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/array-cardio-1/index.html) ] [ 
+[Code](/array-cardio-1) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
