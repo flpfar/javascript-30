@@ -42,6 +42,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Current panel closes when clicking on another one.
 
+### Day 6 - Type Ahead
+> Populates a list while typing the input
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/type-ahead/index.html) ] [ 
+[Code](/type-ahead) ]
+
+**Additional features:** Works only for inputs greater than 2 characters length. Show message when there is no match.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
