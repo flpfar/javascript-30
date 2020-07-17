@@ -34,6 +34,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 5 - Flex Panel Gallery
+> A nice 100% vertical gallery
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/flex-panel-gallery/index.html) ] [ 
+[Code](/flex-panel-gallery) ]
+
+**Additional features:** Current panel closes when clicking on another one.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
