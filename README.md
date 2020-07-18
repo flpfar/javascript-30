@@ -50,6 +50,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Works only for inputs greater than 2 characters length. Show message when there is no match.
 
+### Day 7 - Array Cardio 2
+> Practicing array methods
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/array-cardio-2/index.html) ] [ 
+[Code](/array-cardio-2) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
