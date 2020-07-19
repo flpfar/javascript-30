@@ -58,6 +58,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 8 - Fun with HTML5 Canvas
+> A canvas to draw when clicking and holding
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/fun-with-canvas/index.html) ] [ 
+[Code](/fun-with-canvas) ]
+
+**Additional features:** Add shortcut to clear the canvas.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
