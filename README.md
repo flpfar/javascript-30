@@ -66,6 +66,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Add shortcut to clear the canvas.
 
+### Day 9 - Dev Tools Domination
+> Some console tricks that may be helpful
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/dev-tools/index.html) ] [ 
+[Code](/dev-tools) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
