@@ -74,6 +74,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 10 - Hold Shift and Check Checkboxes
+> I think the name says it all.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/hold-shift-checkboxes/index.html) ] [ 
+[Code](/hold-shift-checkboxes) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
