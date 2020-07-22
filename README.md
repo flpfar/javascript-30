@@ -75,12 +75,20 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 **Additional features:** None.
 
 ### Day 10 - Hold Shift and Check Checkboxes
-> I think the name says it all.
+> I think the name says it all
 
 [ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/hold-shift-checkboxes/index.html) ] [ 
 [Code](/hold-shift-checkboxes) ]
 
 **Additional features:** None.
+
+### Day 11 - Custom Video Player
+> A customized HTML5 player
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/custom-video-player/index.html) ] [ 
+[Code](/custom-video-player) ]
+
+**Additional features:** Add fullscreen button.
 
 ## Author
 
