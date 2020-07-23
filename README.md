@@ -90,6 +90,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Add fullscreen button.
 
+### Day 12 - Key Sequence Detection
+> Enter the right code and get a unicorn
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/key-sequence-detection/index.html) ] [ 
+[Code](/key-sequence-detection) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
