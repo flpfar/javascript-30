@@ -98,6 +98,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 12 - Slide In On Scroll
+> Images appear while scrolling the page
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/slide-in-on-scroll/index.html) ] [ 
+[Code](/slide-in-on-scroll) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
