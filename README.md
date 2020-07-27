@@ -114,6 +114,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 15 - LocalStorage and Event Delegation
+> Using localStorage to keep a list of items and event delegation to handle children events through the parent.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/local-storage/index.html) ] [ 
+[Code](/local-storage) ]
+
+**Additional features:** Button to clear list (and localStorage).
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
