@@ -122,6 +122,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Button to clear list (and localStorage).
 
+### Day 16 - Text Shadow on Mouse Move Effect
+> Using mousemove event of a div to change textshadow directions of its child.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/mouse-move-shadow/index.html) ] [ 
+[Code](/mouse-move-shadow) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
