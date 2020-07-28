@@ -130,6 +130,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 17 - Working with Array.sort()
+> Using sort method ignoring articles (a, an, the).
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/working-with-sort/index.html) ] [ 
+[Code](/working-with-sort) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
