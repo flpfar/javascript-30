@@ -138,6 +138,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 18 - Adding Time String with Array.reduce()
+> Using reduce method to sum time strings.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/adding-time-with-reduce/index.html) ] [ 
+[Code](/adding-time-with-reduce) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
