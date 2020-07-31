@@ -154,6 +154,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 20 - Speech Detection
+> Detects what you say and prints it in the browser.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/speech-detection/index.html) ] [ 
+[Code](/speech-detection) ]
+
+**Additional features:** Clears your speech when you say 'reset'.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
