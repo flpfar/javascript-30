@@ -162,6 +162,15 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Clears your speech when you say 'reset'.
 
+### Day 21 - Geolocation
+> Playing with positioning, speed and direction.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/geolocation/index.html) ] [ 
+[Code](/geolocation) ]
+
+**Additional features:** None.
+
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
