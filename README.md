@@ -170,6 +170,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 21 - Follow Along Links
+> Highlights a link when mouse is over it, following links through the page.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/sticky-links/index.html) ] [ 
+[Code](/sticky-links) ]
+
+**Additional features:** Add more width to highlight and center it.
+
 
 ## Author
 
