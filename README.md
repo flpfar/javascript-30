@@ -186,6 +186,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 24 - Sticky Nav
+> A sticky nav that shows the logo when scrolled.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/sticky-nav/index.html) ] [ 
+[Code](/sticky-nav) ]
+
+**Additional features:** None.
+
 
 ## Author
 
