@@ -202,6 +202,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 26 - Stripe Follow Along Dropdown
+> Creates a dinamically sized background to each dropdown that will appear when hovering the navbar items.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/stripe-follow-nav/index.html) ] [ 
+[Code](/stripe-follow-nav) ]
+
+**Additional features:** None.
+
 
 ## Author
 
