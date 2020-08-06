@@ -194,6 +194,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 25 - Events Capture, Propagation, Bubbling and Once
+> Simple pratice to understand some concepts about events.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/events-concepts/index.html) ] [ 
+[Code](/events-concepts) ]
+
+**Additional features:** None.
+
 
 ## Author
 
