@@ -210,6 +210,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 27 - Click and Drag
+> Scrolls through an horizontal list by clicking and dragging.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/click-and-drag/index.html) ] [ 
+[Code](/click-and-drag) ]
+
+**Additional features:** None.
+
 
 ## Author
 
