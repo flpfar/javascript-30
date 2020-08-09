@@ -218,6 +218,13 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 28 - Video Speed Controller
+> Vertical bar to controll video speed.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/video-speed-controller/index.html) ] [ 
+[Code](/video-speed-controller) ]
+
+**Additional features:** Working only when clicking instead of mousemove.
 
 ## Author
 
