@@ -234,6 +234,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** None.
 
+### Day 30 - Whack A Mole Game
+> Be fast and click the mole to score.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/whacka-mole-game/index.html) ] [ 
+[Code](/whacka-mole-game) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
