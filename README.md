@@ -226,6 +226,14 @@ A challenge of 30 days writing vanilla Javascript code going through different p
 
 **Additional features:** Working only when clicking instead of mousemove.
 
+### Day 29 - Countdown Timer
+> A timer with predefined values or custom minutes.
+
+[ [Live Version](https://raw.githack.com/flpfar/javascript-30/master/countdown-timer/index.html) ] [ 
+[Code](/countdown-timer) ]
+
+**Additional features:** None.
+
 ## Author
 
 👤 **Felipe Augusto Rosa**
